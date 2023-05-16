@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>be3f71308b3598e9_jpg.rf.3b0bb9c9fadaf0607ebd399e06d75550.jpg</filename>
+	<path>be3f71308b3598e9_jpg.rf.3b0bb9c9fadaf0607ebd399e06d75550.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>44</xmin>
+			<xmax>369</xmax>
+			<ymin>22</ymin>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>
